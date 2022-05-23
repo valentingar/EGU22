@@ -1,0 +1,116 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.22)  21 MAY 2022 15:35
+entering extended mode
+**./egu22_dm.tex
+(egu22_dm.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\valen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamer.cls"
+Document Class: beamer 2022/02/08 v3.66 A class for typesetting presentations
+
+("C:\Users\valen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasem
+odes.sty"
+("C:\Users\valen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.
+sty"
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count79
+)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count80
+\c@beamerpauses=\count81
+
+("C:\Users\valen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbased
+ecode.sty"
+\beamer@slideinframe=\count82
+\beamer@minimum=\count83
+\beamer@decode@box=\box27
+)
+\beamer@commentbox=\box28
+\beamer@modecount=\count84
+) ("C:\Users\valen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.st
+y"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box29
+\beamer@animcurrent=\box30
+\beamer@animshowbox=\box31
+\beamer@sectionbox=\box32
+\beamer@logobox=\box33
+\beamer@linebox=\box34
+\beamer@sectioncount=\count85
+\beamer@subsubsectionmax=\count86
+\beamer@subsectionmax=\count87
+\beamer@sectionmax=\count88
+\beamer@totalheads=\count89
+\beamer@headcounter=\count90
+\beamer@partstartpage=\count91
+\beamer@sectionstartpage=\count92
+\beamer@subsectionstartpage=\count93
+\beamer@animationtempa=\count94
+\beamer@animationtempb=\count95
+\beamer@xpos=\count96
+\beamer@ypos=\count97
+\beamer@ypos@offset=\count98
+\beamer@showpartnumber=\count99
+\beamer@currentsubsection=\count100
+\beamer@coveringdepth=\count101
+\beamer@sectionadjust=\count102
+\beamer@toclastsection=\count103
+\beamer@tocsectionnumber=\count104
+
+("C:\Users\valen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseo
+ptions.sty"
+("C:\Users\valen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+("C:\Users\valen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\valen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\valen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+
+! Package ifvtex Error: Name clash, \ifvtex is already defined.
+
+See the ifvtex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.170     }
+           % 
+Here is how much of TeX's memory you used:
+ 815 strings out of 493305
+ 13954 string characters out of 3129802
+ 66544 words of memory out of 3000000
+ 4429 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 29i,0n,21p,844b,32s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+!  ==> Fatal error occurred, no output PDF file produced!
